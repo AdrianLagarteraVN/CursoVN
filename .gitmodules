@@ -1,3 +1,6 @@
 [submodule "SpringWebMaster"]
 	path = SpringWebMaster
 	url = https://github.com/AdrianLagarteraVN/SpringWebMaster.git
+[submodule "SpringWebNodoCliente"]
+	path = SpringWebNodoCliente
+	url = https://github.com/AdrianLagarteraVN/SpringWebNodoCliente
