@@ -4,3 +4,6 @@
 [submodule "SpringWebNodoCliente"]
 	path = SpringWebNodoCliente
 	url = https://github.com/AdrianLagarteraVN/SpringWebNodoCliente
+[submodule "SpringDataExample"]
+	path = SpringDataExample
+	url = https://github.com/AdrianLagarteraVN/SpringDataExample
