@@ -7,3 +7,6 @@
 [submodule "SpringDataExample"]
 	path = SpringDataExample
 	url = https://github.com/AdrianLagarteraVN/SpringDataExample
+[submodule "Conjunto-Kafka"]
+	path = Conjunto-Kafka
+	url = https://github.com/AdrianLagarteraVN/Conjunto-Kafka
